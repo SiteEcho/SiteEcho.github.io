@@ -171,7 +171,7 @@ Promoting positive behavior helps maintain our community’s health.
 * **Rule updates:**
   Rules may change over time as the community evolves. Members are responsible for staying informed about updates.
 * **Discord & Minehut guidelines:**
-  Members must comply with Discord’s Terms of Service, Community Guidelines, and Minehut’s official rules.
+  Members must comply with [Discord’s Terms of Service](https://discord.com/terms), [Community Guidelines](https://discord.com/guidelines), and [Minehut’s official rules](https://minehut.com/rules).
 * **Moderator authority:**
   Moderators have the final say in maintaining the community’s well-being and safety. Respect their decisions and reach out respectfully if clarification is needed.
 * **Avoid mini-modding:**
